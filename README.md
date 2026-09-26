@@ -183,7 +183,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="32" width="32" style="margin-right:10px;" />
 </a> -->
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<a href="https://github.com/sohailan77" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=github" alt="github" height="50px"/>
 </a>
 
