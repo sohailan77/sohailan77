@@ -3,9 +3,7 @@
 
 <h3 align="center">Aspiring Software Engineer | Building Interactive Web Applications | Learning Modern Technologies</h3>
 
-
 ---
-
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sohailan77&label=Profile%20views&color=0e75b6&style=flat" alt="sohailan77" /> 
@@ -13,8 +11,6 @@
 
 <img align="right" alt="Coding" width="440" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<!-- OLD POSITIONING -->
-<!-- <h3 align="center">Software Engineer | MERN Stack Developer | CSE Graduate</h3> -->
 
 ### 🚀 About Me
 
@@ -34,6 +30,106 @@
 - 📄 Resume:
   [Resume Drive Link]()
 
+
+
+# 💻 Tech Stack:
+
+### 👨‍💻 Languages
+<p align="left">
+<a href="https://www.cprogramming.com" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=c" alt="c" height="50px"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js" alt="js" height="50px"/>
+</a>
+
+
+---
+
+### 🎨 Frontend Technologies
+<p align="left">
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=html" alt="html" height="50px"/>
+</a>
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=css" alt="css" height="50px"/>
+</a>
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js" alt="js" height="50px"/>
+</a>
+
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="50px"/>
+</a>
+
+</p>
+
+
+---
+
+### 💻 Coding Profiles
+
+<p align="left">
+
+
+<a href="https://github.com/sohailan77" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=github" alt="github" height="50px"/>
+</a>
+
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+
+
+<a href="https://www.linkedin.com/in/sohailan77" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50px"/>
+</a>
+
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50px"/>
+</a>
+
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=discord" alt="discord" height="50px"/>
+</a>
+</p>
+
+---
+
+
+### 📈 GitHub Stats
+<p align="left">
+<img src ="https://streak-stats.demolab.com/?user=sohailan77&theme=default&hide_border=false" alt="sohailan77"/>
+</p>
+
+
+<p align="left">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sohailan77&theme=default&hide_border=faltrse&include_all_commits=true&count_private=false&layout=compact"/>
+
+</p>
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Sohail Ansari</h1> -->
+
+
+<!-- OLD POSITIONING -->
+<!-- <h3 align="center">Software Engineer | MERN Stack Developer | CSE Graduate</h3> -->
+
 <!-- 
 
 # 🌐 Where to find me :)
@@ -45,17 +141,7 @@
 
 ---
 
-# 💻 Tech Stack:
 
-### 👨‍💻 Languages
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=c" alt="c" height="50px"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=js" alt="js" height="50px"/>
-</a>
 
 <!-- <a href="https://www.java.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -78,32 +164,6 @@
 </a>
 </p> -->
 
----
-
-### 🎨 Frontend Technologies
-<p align="left">
-
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=html" alt="html" height="50px"/>
-</a>
-
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=css" alt="css" height="50px"/>
-</a>
-
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=js" alt="js" height="50px"/>
-</a>
-
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="50px"/>
-</a>
-
-</p>
 
 <!-- 
 ### ⚙️ Backend Technologies
@@ -173,56 +233,8 @@
 
 </p>
  -->
----
 
-### 💻 Coding Profiles
-
-<p align="left">
-
-<!-- <a href="https://github.com/5codeman?tab=repositories" target="_blank">
+ <!-- <a href="https://github.com/5codeman?tab=repositories" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="32" width="32" style="margin-right:10px;" />
 </a> -->
-
-<a href="https://github.com/sohailan77" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=github" alt="github" height="50px"/>
-</a>
-
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-
-
-<a href="https://www.linkedin.com/in/sohailan77" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50px"/>
-</a>
-
-
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50px"/>
-</a>
-
-
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=discord" alt="discord" height="50px"/>
-</a>
-</p>
-
----
-
-
-### 📈 GitHub Stats
-<p align="left">
-<img src ="https://streak-stats.demolab.com/?user=sohailan77&theme=default&hide_border=false" alt="sohailan77"/>
-</p>
-
-
-<p align="left">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sohailan77&theme=default&hide_border=faltrse&include_all_commits=true&count_private=false&layout=compact"/>
-
-</p>
-
 
