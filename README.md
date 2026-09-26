@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sohail Ansari</h1>
+<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Sohail Ansari</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sohail Ansari</h1> -->
+
 <h3 align="center">Aspiring Software Engineer | Building Interactive Web Applications | Learning Modern Technologies</h3>
 
 
@@ -32,43 +34,75 @@
 - 📄 Resume:
   [Resume Drive Link]()
 
----
-
+<!-- 
 
 # 🌐 Where to find me :)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() 
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](sohailan700@gmail.com)  
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](sohailan700@gmail.com)   -->
 
 
 ---
 
+# 💻 Tech Stack:
+
 ### 👨‍💻 Languages
-<!-- <p align="left">
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a> -->
-<!-- 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=c" alt="c" height="50px"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js" alt="js" height="50px"/>
+</a>
+
+<!-- <a href="https://www.java.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a> -->
+</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 
-<!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a> -->
+</a>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
-<!-- 
+
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a> -->
+</a>
+</p> -->
+
+---
+
+### 🎨 Frontend Technologies
+<p align="left">
+
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=html" alt="html" height="50px"/>
+</a>
+
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=css" alt="css" height="50px"/>
+</a>
+
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js" alt="js" height="50px"/>
+</a>
+
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="50px"/>
+</a>
+
 </p>
 
 <!-- 
@@ -138,64 +172,57 @@
 </a>
 
 </p>
--->
+ -->
 ---
 
-### 🎨 Frontend Technologies
+### 💻 Coding Profiles
+
 <p align="left">
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-</a>
-
-<!-- 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a>
-
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<!-- <a href="https://github.com/5codeman?tab=repositories" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="32" width="32" style="margin-right:10px;" />
 </a> -->
-</p>
-
----
-
-### 🛠️Tools & Platforms
-<p align="left">
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a>
-
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" alt="github" height="50px"/>
 </a>
 
 </p>
 
 ---
+
+### 🤝 Connect With Me
+
+<p align="left">
+
+
+<a href="https://www.linkedin.com/in/sohailan77" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50px"/>
+</a>
+
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50px"/>
+</a>
+
+
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=discord" alt="discord" height="50px"/>
+</a>
+</p>
+
+---
+
+
+### 📈 GitHub Stats
+<p align="left">
+<img src ="https://streak-stats.demolab.com/?user=sohailan77&theme=default&hide_border=false" alt="sohailan77"/>
+</p>
+
+
+<p align="left">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sohailan77&theme=default&hide_border=faltrse&include_all_commits=true&count_private=false&layout=compact"/>
+
+</p>
+
+
