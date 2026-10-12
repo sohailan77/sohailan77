@@ -98,7 +98,7 @@
 </a>
 
 
-<a href="#" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/sohailan77?rpxt=MTFkNjBkN3Y3c3ZweQ%3D%3D" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50px"/>
 </a>
 
